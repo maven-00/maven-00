@@ -1,5 +1,6 @@
 ## 👋 Hi!
 I’m Gina Espinosa (@maven-00) from Philippines. I am a software engineer aspirant. 
+
 My mission is to harness my passion for technology to learn and grow in the field. I am dedicated to continuously improving my skills, creating innovative and user-friendly applications, and making meaningful contributions to my team and the tech community. I strive to balance technical excellence with a commitment to understanding and meeting the needs of users.
 
 <!---
