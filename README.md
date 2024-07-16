@@ -9,7 +9,7 @@
 
 <samp>My **mission** is to harness my passion for technology to learn and grow in the field. I am dedicated to continuously improving my skills, creating innovative and user-friendly applications, and making meaningful contributions to my team and the tech community. I strive to balance technical excellence with a commitment to understanding and meeting the needs of users.</samp> 👩‍💻🌠
 
-<samp>Over the past year, I have gained hands-on experience working with technologies like Salesforce and Angular. Although my technical expertise is still growing, I am eager to deepen my knowledge and refine my skills. I enjoy tackling challenges and am particularly interested in projects that involve complex problem-solving and innovative solutions.</samp> 🚀
+<samp>Over the past year, I have gained **hands-on experience** working with technologies like _Salesforce_ and _Angular_. Although my technical expertise is still growing, I am eager to deepen my knowledge and refine my skills. I enjoy tackling challenges and am particularly interested in projects that involve complex problem-solving and innovative solutions.</samp> 🚀
 
 <samp>Few of the courses I have taken so far this year are _**here**_.</samp>
 
@@ -20,7 +20,7 @@
 - 🎲<samp>I love playing Scrabble, die games, and cards. I am fascinated by conspiracy theories and alternate history.</samp>
 - 🍃<samp>I love being with nature.</samp>
 
-#### <samp>Thank you so much for checking out my profile!</samp> 🥰♥️
+### <samp>Thank you so much for checking out my profile!</samp> 🥰💕
 
 
 
