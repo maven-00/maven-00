@@ -17,7 +17,7 @@
 - 💬<samp>Watching TED Talks and Toastmasters videos on YouTube to enhance my communication and leadership skills. Chatting to peers.</samp>
 - ✍️<samp>I enjoy social media, editing videos, writing fiction, and journaling to express my creativity. </samp>
 - 🧑‍🍳<samp>Recreating recipes from TikTok, planting, and cleaning as my ways to unwind.</samp>
-- 🎲<samp>I love playing Scrabble, die games, and cards. I am fascinated by conspiracy theories and alternate history.</samp>
+- 🎮<samp>I am a cozy gamer but also love playing Scrabble, die games, and cards. I am fascinated by conspiracy theories and alternate history.</samp>
 - 🍃<samp>I love being with nature.</samp>
 
 ### <samp>Thank you so much for checking out my profile!</samp> 🥰💕
