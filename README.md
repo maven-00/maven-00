@@ -11,7 +11,7 @@
 
 <samp>Over the past year, I have gained **hands-on experience** working with technologies like _Salesforce_ and _Angular_. Although my technical expertise is still growing, I am eager to deepen my knowledge and refine my skills. I enjoy tackling challenges and am particularly interested in projects that involve complex problem-solving and innovative solutions.</samp> 🚀
 
-<samp>Few of the courses I have taken so far this year are [_**here**_](https://github.com/maven-00/academic-achievements).</samp>
+<samp>My academic achievements are all [_**here**_](https://github.com/maven-00/academic-achievements).</samp>
 
 <samp>Beyond my technical pursuits, I have few personal interests that keep me engaged and inspired.</samp> 👩‍💻
 - 💬<samp>Watching TED Talks and Toastmasters videos on YouTube to enhance my communication and leadership skills. Chatting to peers.</samp>
