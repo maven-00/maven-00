@@ -5,7 +5,7 @@
 
 ## <samp>Hi!</samp>👋
 
-<samp>I’m Gina Espinosa (@maven-00) from _Philippines_ 🇵🇭. I am a _software engineer aspirant_.</samp>
+<samp>I’m Gina Espinosa (@maven-00) from _Philippines_ 🇵🇭. I am an _associate software engineer_.</samp>
 
 <samp>My **mission** is to harness my passion for technology to learn and grow in the field. I am dedicated to continuously improving my skills, creating innovative and user-friendly applications, and making meaningful contributions to my team and the tech community. I strive to balance technical excellence with a commitment to understanding and meeting the needs of users.</samp> 👩‍💻🌠
 
